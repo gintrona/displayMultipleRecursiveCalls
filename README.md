@@ -2,7 +2,7 @@ This program illustrates the function calls to mergesort and merge
 in a multiple recursive implementation. Each single call 
 is displayed in a line, along with the arguments 
 (the start and end indeces of the original array
-to be sorted). 
+to be sorted in that particular call). 
 
 For example, the input array [14,7,3,12,9,11,8,10] will be sorted in the following 
 way: 
